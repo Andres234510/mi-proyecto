@@ -16,8 +16,8 @@ export const MobileNav = () => {
 
   return (
     <div >
-      <img className='block md:hidden' src="public/baner.jpeg" alt="baner" />
-      <img className='mx-auto max-w-2xl hidden md:block' src="public/baner.jpeg" alt="baner" />
+      <img className='block md:hidden' src="/baner.jpeg" alt="baner" />
+      <img className='mx-auto max-w-2xl hidden md:block' src="/baner.jpeg" alt="baner" />
     <nav className="naver ">
       <img className='logo' src={placeholderImg} alt="Logo" />
       <div className="flex justify-between items-center ">
